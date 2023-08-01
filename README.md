@@ -1,0 +1,1 @@
+Carrom is played on a square polished plywood board with a striker made of hard plastic and small circular wooden pieces called carrommen. The basic objective of carrom is to use the striker with a flick of the finger to drive the carrommen into any of the four corner pockets.# CarromGame
